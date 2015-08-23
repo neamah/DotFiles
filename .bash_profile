@@ -1,1 +1,0 @@
-/Users/neamah/.bash_profile

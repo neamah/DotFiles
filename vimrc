@@ -1,4 +1,4 @@
-" Author: Neamah Hussein
+" Author: Neamah
 " .vimrc config file
 
 " Enable syntax coloring
